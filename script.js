@@ -357,7 +357,7 @@ function setupHeroShowcase() {
         <strong>${title}</strong>
         <p>${body}</p>
         <div class="hero-app-prompt-actions">
-          <a class="button" href="http://localhost:8081">Continue learning in app</a>
+          <a class="button" href="https://thai.keystonelanguages.com">Continue learning in app</a>
           <button class="button-secondary hero-app-dismiss" type="button">Close</button>
         </div>
       </div>
